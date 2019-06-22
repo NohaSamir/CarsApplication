@@ -6,6 +6,9 @@ A Car App User Interface in Android ❤️
 
 The purpose of this application to create an app with a great animation inspired by [Cuberto](https://www.instagram.com/p/BsvV-nQhZ2G/?igshid=xqy8r2yb9xu0).
 
+scrollable TabLayout , ViewPager with depth transformation ,
+ImageView slide up , slide down , zoom in , zoom out and animate text background.
+
 [Video](https://drive.google.com/open?id=1K4RBEBF7M8mRC82dBv1H2mr29GrYxYMd).
 
 
